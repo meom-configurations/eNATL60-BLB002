@@ -13,6 +13,6 @@ Version of XIOS: xios-2.0, rev: 1555
 
 The integrality of the source code, as preprocessed FORTRAN-90 sources, is found here into:
 
-[`./CONFIG/eNATL60-BLB002/BLD/ppsrc/nemo`](https://github.com/meom-configurations/eNATL60-BLB002/tree/master/CONFIG/eNATL60-BLB002/BLD/ppsrc/nemo)
+[`./CONFIG/eNATL60-BLB002/BLD/ppsrc/nemo`](https://github.com/meom-configurations/eNATL60-BLB002/tree/master/CONFIG/eNATL60_LIM3/BLD/ppsrc/nemo)
 
-
+                                                
